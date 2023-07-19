@@ -1,0 +1,175 @@
+*body{
+    margin: 0px;
+    padding: 0px;
+}
+.bg-navbar{
+    background-color: #6a49f2;
+}
+.navbar-nav .nav-link{
+    color: white !important;
+    font-size: 18px;
+    margin-left:30px;
+    text-align: center;
+}
+.navbar-nav .nav-link:hover{
+    text-decoration: underline;
+}
+.my-brand{
+    font-size:26px !important;
+    font-family: sans-serif !important;
+    letter-spacing: 1px !important;
+    color: white !important;
+    font-weight: 400;
+}
+.my-icon{
+    font-size: 26px !important;
+}
+.my-button{
+    border-radius: 30px !important;
+    padding: 0px 26px;
+    background-color: #6a49f2;
+    border: 2px solid white;
+    margin-left: 30px;
+}
+.my-button:hover{
+    color: black !important;
+    border: 2px solid rgb(0, 0, 0) !important;
+    padding: 0px 26px;
+    border-radius: 30px !important;
+}
+.my-btn{
+    color: white !important;
+    font-size: 18px;
+    text-align: center;
+    text-decoration: none;
+}
+/* navbar section end************************************************* */
+/* ******************************************************************************** */
+/* main 1st section css start */
+/* main 1st section css start */
+.bg-f-section{
+    background-color: #6a49f2;
+    justify-content: space-around;
+    align-items: center;
+}
+.bg-f-section .switch-heading{
+    margin-left: 340px;
+    margin-top: 100px;
+    color: white;
+    text-align: start;
+}
+.bg-f-section .main-img{
+    width: 410px;
+}
+/* main 1st section css end */
+/* *************************************************************************** */
+/* 2nd section css start */
+.list-of{
+    color: #6a49f2;
+    font-size: 36px;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.servi-span{
+    color: #6a49f2;
+    font-style: italic;
+    font-weight: 300;
+}
+/* 3rd section css start */
+.fem-ul{
+    margin-left:100px;
+    margin-top:20px;
+}
+.my-border{
+    border: 1px solid #7d60b46c ;
+    box-shadow: #7d60b4 0px 0px 3px;
+    border-radius: 12px;
+    padding: 8px;
+    display: flex;
+    margin: 10px 0px;
+}
+.f-pix{
+    width: 140px;
+}
+.s-pix{
+    width: 260px;
+    margin-top: 85px;
+    margin-left:22px;
+}
+.fem-tg{
+    padding: 4px 10px;
+    background-color: #af9ef2;
+    border-radius: 16px;
+    color: black;
+    font-size: 12px;
+}
+.hari-h{
+    color: #55368d;
+    margin-top: 10px;
+}
+.layer-h{
+    color: #55368d;
+    margin-top: 10px;
+    margin-left:22px;
+    font-size: 30px;
+}
+.layer-r{
+    margin-left: 22px;
+    font-size: 26px !important;
+}
+.number{
+    font-size: 30px;
+    font-style: italic;
+
+}
+
+.se-pix{
+    width: 260px;
+    margin-top: 85px;
+    
+}
+.fem-tg{
+    padding: 4px 10px;
+    background-color: #af9ef2;
+    border-radius: 16px;
+    color: black;
+    font-size: 12px;
+}
+.hari-h{
+    color: #55368d;
+    margin-top: 10px;
+}
+.layer-he{
+    color: #55368d;
+    margin-top: 10px;
+
+    font-size: 30px;
+}
+.layer-re{
+    font-size: 26px !important;
+}
+.numbere{
+    font-size: 30px;
+    font-style: italic;
+
+}
+.si-pix{
+    width: 260px;
+    margin-top:30px;
+    margin-left:22px;
+}
+.sj-pix{
+    width: 260px;
+    margin-top: 30px;
+}
+.des{
+    margin-top: 342px;
+    margin-left: 130px;
+    font-size: 22px;
+    color: #55368d;
+
+}
+.logo-end{
+    width:68px;
+}
